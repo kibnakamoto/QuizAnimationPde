@@ -1,5 +1,5 @@
 # finalProjectQuizAnimationPde
-This school project is about a simple quiz on Elliptic Curve Cryptography.
+This school project was the final project, it is a simple quiz on Elliptic Curve Cryptography.
 
 Made using the Processing language
 
